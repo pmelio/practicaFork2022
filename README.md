@@ -2,8 +2,10 @@
 Repositorio de prácticas para el ejercicio Fork
 
 Añade a continuación tu nombre,  apellidos (si quieres usar pseudónimo, me informas en privado)  y curso:
-Alberto Solera Aparicio DAM SEMI
+
 
 Pilar Melió
+
+Alberto Solera Aparicio DAM SEMI
 David Moreno
 
