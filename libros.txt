@@ -6,6 +6,11 @@ uno
 dos
 tres
 
+La Biblia
+El señor de los anillos
+Los pilares de la tierra
+
+
 El Psicoanalista - P.M.G.
 El Hobbit - P.M.G.
 El Nombre del Viento - P.M.G.
@@ -17,5 +22,6 @@ La torre oscura
 El Niño del Pijama de Rayas
 Codigo DaVinci
 Alas de Fuego 
+
 
 

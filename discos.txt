@@ -11,6 +11,11 @@ uno
 dos
 tres
 
+U2-War
+U2-The Joshua Tree
+Depeche mode-Violator
+
+
 
 Bon Jovi - P.M.G.
 Muse - P.M.G.
@@ -24,6 +29,7 @@ Johnny B. Goode
 Who You Are
 R.O.S.E
 Teenage Dream
+
 
 
 
