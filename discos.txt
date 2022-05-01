@@ -7,6 +7,11 @@ Fito Fitipaldis
 Ed Sheran
 Coldplay
 
+
+Fito Fitipaldis 
+Ed Sheran
+Coldplay
+
 uno
 dos
 tres
@@ -29,6 +34,7 @@ Johnny B. Goode
 Who You Are
 R.O.S.E
 Teenage Dream
+
 
 
 
