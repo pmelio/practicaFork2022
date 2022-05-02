@@ -13,4 +13,6 @@ Patricia M.G. - 6U
 David Moreno Bolivar (◠﹏◠)
 Juan Zarzuela Gonzalez  1º DAW
 
+Gonzalo Reig Torro
+
 
