@@ -5,3 +5,6 @@ Jagged Little Pill
 uno
 dos
 tres
+Melendi
+Buhos
+Mago de oz
