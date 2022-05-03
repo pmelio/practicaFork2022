@@ -1,4 +1,4 @@
-﻿# Práctica Fork
+# Práctica Fork
 Repositorio de prácticas para el ejercicio Fork
 
 Añade a continuación tu nombre,  apellidos (si quieres usar pseudónimo, me informas en privado)  y curso:
@@ -12,5 +12,7 @@ Patricia M.G. - 6U
 
 David Moreno Bolivar (◠﹏◠)
 Juan Zarzuela Gonzalez  1º DAW
+
+Bárbara González Pérez DAW SEMI
 
 
