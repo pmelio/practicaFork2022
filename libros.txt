@@ -24,6 +24,11 @@ Codigo DaVinci
 Alas de Fuego 
 
 
+
+Hellsing BBG
+El juego del Ángel BBG
+El cementerio de los libros olvidados BBG
+
 libro1
 libro2
 libro3
@@ -38,6 +43,7 @@ Circe
 Nada
 
 
+
 Historia de dos ciudades
 Cujo
 El planeta del tesoro
@@ -46,6 +52,5 @@ El planeta del tesoro
 La flor del desierto
 Cronicas de una muerte anunciada
 Las uvas de la ira
-
 
 

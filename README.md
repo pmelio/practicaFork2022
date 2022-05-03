@@ -21,6 +21,9 @@ Kiefer Martínez Suárez 1º DAM SEMI
 
 Juan Zarzuela Gonzalez  1º DAW
 
+
+Beatriz Burgos Guiot
+
 Jesús Sánchez Indias 1º DAW
 
 
@@ -28,6 +31,7 @@ Bárbara González Pérez DAW SEMI
 
 
 Gonzalo Reig Torro
+
 
 Carla Ruiz Ortega
 
