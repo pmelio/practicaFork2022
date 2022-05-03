@@ -12,5 +12,14 @@ Alberto Solera Aparicio DAM SEMI
 Patricia M.G. - 6U
 
 David Moreno Bolivar (◠﹏◠)
+
 Juan Zarzuela Gonzalez 1º DAW
+
 Kiefer Martínez Suárez 1º DAM SEMI
+
+Juan Zarzuela Gonzalez  1º DAW
+
+Carla Ruiz Ortega
+
+
+
