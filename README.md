@@ -1,4 +1,6 @@
-﻿# Práctica Fork
+
+# Práctica Fork
+
 
 Repositorio de prácticas para el ejercicio Fork
 
@@ -18,6 +20,8 @@ Juan Zarzuela Gonzalez 1º DAW
 Kiefer Martínez Suárez 1º DAM SEMI
 
 Juan Zarzuela Gonzalez  1º DAW
+
+Bárbara González Pérez DAW SEMI
 
 
 Gonzalo Reig Torro

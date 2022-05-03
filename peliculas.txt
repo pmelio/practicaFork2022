@@ -24,6 +24,11 @@ Los Juegos Del Hambre
 Resident Evil
 
 
+Dune 
+Spiderman
+Batman
+
+
 P1
 P2
 P3
@@ -37,5 +42,6 @@ American Psycho
 Proyect power
 Love and Monsters
 Chappie
+
 
 
