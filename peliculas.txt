@@ -23,5 +23,7 @@ Los Juegos Del Hambre
 2012
 Resident Evil
 
-
+pelicula1
+pelicula2
+pelicula3
 
