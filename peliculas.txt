@@ -24,9 +24,27 @@ Los Juegos Del Hambre
 Resident Evil
 
 
+
 Harry Potter
 Sleepy Hollow
 La momia
+
+pelicula1
+pelicula2
+pelicula3
+
+
+Dune 
+Spiderman
+Batman
+
+
+P1
+P2
+P3
+
+
+
 
 Shutter Island
 Lucky Number Slevin
@@ -35,6 +53,8 @@ American Psycho
 Proyect power
 Love and Monsters
 Chappie
+
+
 
 
 
