@@ -24,6 +24,11 @@ Los Juegos Del Hambre
 Resident Evil
 
 
+pelicula1
+pelicula2
+pelicula3
+
+
 Dune 
 Spiderman
 Batman
@@ -42,6 +47,7 @@ American Psycho
 Proyect power
 Love and Monsters
 Chappie
+
 
 
 
