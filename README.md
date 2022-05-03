@@ -19,7 +19,11 @@ Kiefer Martínez Suárez 1º DAM SEMI
 
 Juan Zarzuela Gonzalez  1º DAW
 
+
+Gonzalo Reig Torro
+
 Carla Ruiz Ortega
+
 
 
 
