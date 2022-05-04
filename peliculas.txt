@@ -6,6 +6,10 @@ una
 dos
 tres
 
+Spiderman
+Titanic
+Superman
+
 En el nombre del padre
 Cadena perpetua
 El padrino
@@ -53,8 +57,3 @@ American Psycho
 Proyect power
 Love and Monsters
 Chappie
-
-
-
-
-

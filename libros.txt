@@ -6,6 +6,10 @@ uno
 dos
 tres
 
+Dos velas para el diablo
+Alas de fuego
+Alas de sangre
+
 La Biblia
 El señor de los anillos
 Los pilares de la tierra
@@ -52,5 +56,3 @@ El planeta del tesoro
 La flor del desierto
 Cronicas de una muerte anunciada
 Las uvas de la ira
-
-

@@ -16,6 +16,10 @@ uno
 dos
 tres
 
+Melendi
+Buhos
+Mago de oz
+
 U2-War
 U2-The Joshua Tree
 Depeche mode-Violator
@@ -63,4 +67,3 @@ In Utero
 Speak now
 El tercer verano del amor
 Master of puppets
-
