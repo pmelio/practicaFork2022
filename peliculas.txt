@@ -6,6 +6,11 @@ una
 dos
 tres
 
+El señor anillos
+El dia del mañana 
+El padrino
+
+
 Spiderman
 Titanic
 Superman
@@ -57,3 +62,4 @@ American Psycho
 Proyect power
 Love and Monsters
 Chappie
+

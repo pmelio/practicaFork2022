@@ -33,7 +33,11 @@ Jesús Sánchez Indias 1º DAW
 Bárbara González Pérez DAW SEMI
 
 
+
+Israel H P
+
 Gonzalo Reig Torro
+
 
 
 Carla Ruiz Ortega
