@@ -1,6 +1,15 @@
+Greenbook
+Uno de los nuestros
+Casablanca
+
 Blade Runner
 Matrix
 Her
+
+American Pie
+Los vengadores
+Doctos Strange
+
 
 una
 dos
@@ -73,6 +82,10 @@ pelicula 1
 pelicula 2 
 pelicula 2 
 
+
 Regreso al futuro
 Star Wars
 Los Vengadores 
+
+
+
