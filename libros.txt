@@ -2,6 +2,11 @@ Juego de Tronos
 El Juego de Ender
 La Historia Interminable
 
+Roma soy yo
+Violeta
+Ultimos dias en Berlin
+
+
 uno
 dos
 tres
@@ -70,4 +75,5 @@ El Imperio Final - Brandon Sanderson
 libro 1 
 libro 2 
 libro 3 
+
 

@@ -2,6 +2,11 @@ Blade Runner
 Matrix
 Her
 
+American Pie
+Los vengadores
+Doctos Strange
+
+
 una
 dos
 tres
@@ -72,4 +77,5 @@ Spider-Man: No Way Home
 pelicula 1 
 pelicula 2 
 pelicula 2 
+
 
