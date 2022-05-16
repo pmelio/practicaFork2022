@@ -1,6 +1,15 @@
+Greenbook
+Uno de los nuestros
+Casablanca
+
 Blade Runner
 Matrix
 Her
+
+American Pie
+Los vengadores
+Doctos Strange
+
 
 una
 dos
@@ -69,7 +78,22 @@ El señor de los anillos
 Interstellar
 
 
+
+Spider-Man: Homecoming
+Spider-Man: Far From Home
+Spider-Man: No Way Home
+
+
 pelicula 1 
 pelicula 2 
 pelicula 2 
+
+
+
+Regreso al futuro
+Star Wars
+Los Vengadores 
+
+
+
 

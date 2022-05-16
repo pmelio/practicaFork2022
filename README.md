@@ -1,36 +1,41 @@
 
-# Práctica Fork
+
+Añade a continuación tu nombre,  apellidos (si quieres usar pseudónimo, me informas en privado)  y curso:
+Maria Isabel Martinez Garrido 1ºDAW
+
+# PrÃ¡ctica Fork
 
 
-Repositorio de prácticas para el ejercicio Fork
 
-Añade a continuación tu nombre, apellidos (si quieres usar pseudónimo, me informas en privado) y curso:
+Repositorio de prÃ¡cticas para el ejercicio Fork
 
-Pilar Melió¡
+AÃ±ade a continuaciÃ³n tu nombre, apellidos (si quieres usar pseudÃ³nimo, me informas en privado) y curso:
 
-Francisco José Micó Delgado
+Pilar MeliÃ³Â¡
 
-José Luis Montero Franch 6U
+Francisco JosÃ© MicÃ³ Delgado
+
+JosÃ© Luis Montero Franch 6U
 
 Alberto Solera Aparicio DAM SEMI
 
 Patricia M.G. - 6U
 
-David Moreno Bolivar (◠﹏◠)
+David Moreno Bolivar (â— ï¹â— )
 
-Juan Zarzuela Gonzalez 1º DAW
+Juan Zarzuela Gonzalez 1Âº DAW
 
-Kiefer Martínez Suárez 1º DAM SEMI
+Kiefer MartÃ­nez SuÃ¡rez 1Âº DAM SEMI
 
-Juan Zarzuela Gonzalez  1º DAW
+Juan Zarzuela Gonzalez  1Âº DAW
 
 
 Beatriz Burgos Guiot
 
-Jesús Sánchez Indias 1º DAW
+JesÃºs SÃ¡nchez Indias 1Âº DAW
 
 
-Bárbara González Pérez DAW SEMI
+BÃ¡rbara GonzÃ¡lez PÃ©rez DAW SEMI
 
 
 
@@ -42,5 +47,11 @@ Gonzalo Reig Torro
 
 Carla Ruiz Ortega
 
+Daniel Alcober Ãlvarez 1Âº DAM SEMI :+1:
 
-Jose Ignacio Fernandez Tu�on 
+
+Jose Ignacio Fernandez Tu¤on 
+
+Álvaro Barreiro Abad
+
+Antonio Anton Piqueras
